@@ -1,0 +1,4 @@
+@EndUserText.label: 'Exponer CDS arte'
+define service ZJAHM_SD_ART001 {
+  expose ZJAHM_CDS_ART_001;
+}
